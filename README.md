@@ -59,7 +59,7 @@ An array of replacement options (i.e. objects with `xpath` and `value` propertie
 ### Usage Examples
 
 #### Basic Usage
-In this example, the text content of an element is set to a static value. So if the `testing.xml` file has the content `<abc></abd>`, the generated result would be `<abc>123</abc>`.
+In this example, the text content of an element is set to a static value. So if the `testing.xml` file has the content `<abc></abc>`, the generated result would be `<abc>123</abc>`.
 
 ```js
 grunt.initConfig({
